@@ -6,7 +6,7 @@ The purpose behind this project was to gain hands-on experience with TypeScript,
 
 Watch the software in action and explore the intricacies of its code in my YouTube demonstration. This 4-5 minute video provides a detailed walkthrough of the application, focusing on what I've learned about TypeScript language syntax.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/FjypBpY9ILg)
 
 # Development Environment
 
